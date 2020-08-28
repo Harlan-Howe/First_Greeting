@@ -1,49 +1,25 @@
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 2.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
 CLA&S	August 19, 2020
 
-First Python-Github Project
+## First Python-Github Project
 
 This first project is _much_ more cookie-cutter than usual, but is intended as a quick way to get you familiar with the basics of Github classroom and how you will be turning projects in this year. For those of you already familiar with Github, this is very basic - we're not talking about branches or pull requests or any of the fancier stuff found there.
-
-
 
 1. Go to [GitHub.com](https://github.com/) and create an account for yourself, if you have not already done so. You can use your Kinkaid email for this - when we get to the end of the year, you can transfer it to a new email pretty easily, so that you can keep your stuff!
 2. Now go to [https://classroom.github.com/a/oytTTVEI](https://classroom.github.com/a/oytTTVEI) and select your name from the list to link your name to the github account. 
 3. On the next screen, accept the first greeting assignment.
-4. After a brief pause, you'll get a message saying you're ready to go, with a url on it. Go ahead and click on this URL. You'll see something like this: \
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
+4. After a brief pause, you'll get a message saying you're ready to go, with a url on it. Go ahead and click on this URL. You'll see something like this: 
+![alt_text](images/image4.png "image_tooltip")
 5. Click on the green "Code" button. You'll see the start of a (mighty similar) URL here, too. Click on the clipboard icon next to it to copy this URL into your clipboard. (Leave this window open as we switch to a different program - we'll be back here soon.)
-6. Now launch PyCharm on your computer. Close any project windows you have open, so that you are seeing the "Welcome to Pycharm" window. \
- \
-On the right side, click "Get from Version Control."
+6. Now launch PyCharm on your computer. Close any project windows you have open, so that you are seeing the "Welcome to Pycharm" window.
+On the right side, click "Get from Version Control." ![alt_text](images/image3.png "pycharm greeting screen")
 7. In the "URL" field, paste the URL you copied in step 5, select a location where you would like to put the project (one is suggested), and click "Clone." This should download a copy of my starter project, open a project window,  and create a "local" repository on your computer. \
 _The repository is a hidden folder on your computer that keeps a record of this project and the changes you make to it. So you actually have two copies of the project now. When you save the project (or run it, which should autosave it), that updates the version that is visible. When you "commit" your project, it updates the repository, as we will see._
 8. Open up the "Greeting.py" file in your project. (You may need to open the "First Greeting" folder in the Project pane to find it.)
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](images/image2.png "image_tooltip")
- \
 Peruse this simple file - we are defining a method, "do_greeting()," which prints some fairly banal stuff. Below, if this is the file we are telling to run, we call that method.
 9. Go to the "Run" menu, select "Run…" and choose "Greeting.py." You should see some fairly predictable output in the line below. \
 If you are _not_ given "Greeting.py" as an option...
-    1. It is likely that you need to choose an interpreter for the program. In the upper right corner, there is a popup menu to the left of the green arrow. (It will likely not look exactly like mine, but similar.) \
+    1. It is likely that you need to choose an interpreter for the program. In the upper right corner, there is a popup menu to the left of the green arrow. (It will likely not look exactly like mine, but similar.) ![alt_text](images/image1.png "edit configurations")\
 Choose "Edit Configurations…"
     2. In the window that appears, look for the popup marked "Python Interpreter." (It should be about halfway down the right side of this window. Use this to select Python 3.8. (If you see more than one, try one at a time until you find one that works - and remember it for next time.) Click Ok and try step 9 again. If this _still_ doesn't work, contact Mr. Howe.
 10. We are going to make a simple change to the file. On line 4, replace the dash with your name. Run the program again. _Hint: once you have run the program once, there are Green "run" triangles in several places on the screen, including the upper right corner, the left side of the "Run" panel, and maybe even next to line 12. Any of these can be used to run the program now. Or type control - r._ \

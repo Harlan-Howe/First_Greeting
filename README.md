@@ -11,7 +11,7 @@ This first project is _much_ more cookie-cutter than usual, but is intended as a
 ![alt_text](images/image4.png "image_tooltip")
 5. Click on the green "Code" button. You'll see the start of a (mighty similar) URL here, too. Click on the clipboard icon next to it to copy this URL into your clipboard. (Leave this window open as we switch to a different program - we'll be back here soon.)
 6. Now launch PyCharm on your computer. Close any project windows you have open, so that you are seeing the "Welcome to Pycharm" window.
-On the right side, click "Get from Version Control." <img src="images/image3.png" width="777")
+On the right side, click "Get from Version Control." <img src="images/image3.png" width="518">
 7. In the "URL" field, paste the URL you copied in step 5, select a location where you would like to put the project (one is suggested), and click "Clone." This should download a copy of my starter project, open a project window,  and create a "local" repository on your computer. \
 _The repository is a hidden folder on your computer that keeps a record of this project and the changes you make to it. So you actually have two copies of the project now. When you save the project (or run it, which should autosave it), that updates the version that is visible. When you "commit" your project, it updates the repository, as we will see._
 8. Open up the "Greeting.py" file in your project. (You may need to open the "First Greeting" folder in the Project pane to find it.)

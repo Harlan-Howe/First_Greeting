@@ -36,7 +36,5 @@ _Note: In the future, you can also get this number inside PyCharm, without going
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
 
-[^1]:
-
-     This is the first 7 digits of a much longer hex number. Click on the link to see the full number! It will be on the right hand side, below the blue bar.
+[^1]: This is the first 7 digits of a much longer hex number. Click on the link to see the full number! It will be on the right hand side, below the blue bar.
 

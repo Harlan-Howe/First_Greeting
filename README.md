@@ -8,14 +8,14 @@ This first project is _much_ more cookie-cutter than usual, but is intended as a
 2. Now go to [https://classroom.github.com/a/oytTTVEI](https://classroom.github.com/a/oytTTVEI) and select your name from the list to link your name to the github account. 
 3. On the next screen, accept the first greeting assignment.
 4. After a brief pause, you'll get a message saying you're ready to go, with a url on it. Go ahead and click on this URL. You'll see something like this: 
-<img src="images/image4.png" width="750px">.
+<br /><img src="images/image4.png" width="750px">.
 5. Click on the green "Code" button. You'll see the start of a (mighty similar) URL here, too. Click on the clipboard icon next to it to copy this URL into your clipboard. (Leave this window open as we switch to a different program - we'll be back here soon.)
 6. Now launch PyCharm on your computer. Close any project windows you have open, so that you are seeing the "Welcome to Pycharm" window.
-On the right side, click "Get from Version Control." <img src="images/image3.png" width="518">
+On the right side, click "Get from Version Control." <br /><img src="images/image3.png" width="518">
 7. In the "URL" field, paste the URL you copied in step 5, select a location where you would like to put the project (one is suggested), and click "Clone." This should download a copy of my starter project, open a project window,  and create a "local" repository on your computer. \
 _The repository is a hidden folder on your computer that keeps a record of this project and the changes you make to it. So you actually have two copies of the project now. When you save the project (or run it, which should autosave it), that updates the version that is visible. When you "commit" your project, it updates the repository, as we will see._
 8. Open up the "Greeting.py" file in your project. (You may need to open the "First Greeting" folder in the Project pane to find it.)
-![alt_text](images/image2.png "image_tooltip")
+![alt_text](images/image2.png "image_tooltip") <br />
 Peruse this simple file - we are defining a method, "do_greeting()," which prints some fairly banal stuff. Below, if this is the file we are telling to run, we call that method.
 9. Go to the "Run" menu, select "Run…" and choose "Greeting.py." You should see some fairly predictable output in the line below. \
 If you are _not_ given "Greeting.py" as an option...

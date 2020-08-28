@@ -8,7 +8,7 @@ This first project is _much_ more cookie-cutter than usual, but is intended as a
 2. Now go to [https://classroom.github.com/a/oytTTVEI](https://classroom.github.com/a/oytTTVEI) and select your name from the list to link your name to the github account. 
 3. On the next screen, accept the first greeting assignment.
 4. After a brief pause, you'll get a message saying you're ready to go, with a url on it. Go ahead and click on this URL. You'll see something like this: 
-![alt_text](images/image4.png "image_tooltip")
+<img src="images/image4.png" width="750px">
 5. Click on the green "Code" button. You'll see the start of a (mighty similar) URL here, too. Click on the clipboard icon next to it to copy this URL into your clipboard. (Leave this window open as we switch to a different program - we'll be back here soon.)
 6. Now launch PyCharm on your computer. Close any project windows you have open, so that you are seeing the "Welcome to Pycharm" window.
 On the right side, click "Get from Version Control." <img src="images/image3.png" width="518">
